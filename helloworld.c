@@ -3,6 +3,6 @@
 int main(void)
 {
 //adding a new comment here
-        printf("hello world\n");
+        printf("Hello World\n");
         return 0;
 }
